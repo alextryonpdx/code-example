@@ -1,0 +1,286 @@
+1004~0159~0~0~0~NECA-IBEW ELECTRICAL JATC~Inside Electrician~Inside Electrician~01/01/1997~12/11/1997
+1004~0159~1~0~0~NECA-IBEW ELECTRICAL JATC~Ltd Res Electrician~Limited Residential Electrician~~
+1008~0052~0~0~0~OR SW-WA MASON TRADES JATC~Bricklayer~Bricklayer/Masonry Restoration~06/03/1996~07/08/1996
+1008~0053~0~0~0~OR SW-WA MASON TRADES JATC~Caulker~Caulker, Pointer, Cleaner~~
+1008~0313~0~0~0~OR SW-WA MASON TRADES JATC~Marble Setter~Marble Setter~~
+1008~0568~0~0~0~OR SW-WA MASON TRADES JATC~Terrazzo Worker~Terrazzo Worker~~
+1008~0573~0~0~0~OR SW-WA MASON TRADES JATC~Finisher~Tile, Terrazzo, Brick & Marble Finisher~07/01/1994~
+1008~0573~1~0~0~OR SW-WA MASON TRADES JATC~Tilesetter~Tilesetter~~
+1013~0669~0~0~0~PACIFIC NW IRONWORKER & EMPLOYER JATC~Ironworker~Ironworker~05/12/1997~05/23/1997
+1015~0075~0~0~0~OREGON & SW-WA CEMENT MASONS JATC~Cement Mason~Cement Mason~07/05/1995~
+1016~0561~0~0~0~OR & SW-WA DRYWALL FINISHERS JATC~Drywall Finisher~Drywall Finisher~01/17/1997~
+1017~0221~0~0~0~OR SW-WA GLAZR ARCH METL GLASS WRKR JATC~Glazier~Glazier (Construction)~03/10/1997~03/20/1997
+1018~0643~0~0~0~METRO MFG PLANT ELECTRICIANS JATC~Mfg Plnt Electrician~Manufacturing Plant Electrician~~
+1019~0423~0~0~0~OREGON SW WASHINGTON PLASTERERS JAC~Plasterer~Plasterer~~
+1020~0199~0~0~0~OR & SW-WA FLOOR COVERING JATC~Floor Coverer~Resilient Floor & Decorative Coverings~03/26/1990~
+1023~0151~0~0~0~PORTLAND OUTSIDE ELECTRICAL WORKERS TATC~Meterman~Electrical Meter Repairer~~
+1023~0166~1~0~0~PORTLAND OUTSIDE ELECTRICAL WORKERS TATC~Sub Wireman Ext Serv~Station-Substation Construction and Maintenance Wireman~~
+1023~0284~0~0~0~PORTLAND OUTSIDE ELECTRICAL WORKERS TATC~Lineman~Power Line Construction/Maintenance~~
+1023~0965~0~0~0~PORTLAND OUTSIDE ELECTRICAL WORKERS TATC~Estimator~Estimator~~
+1024~0379~0~0~0~OREGON & SW WASHINGTON PAINTERS JATC~Painter~Painting and Decorating~01/21/1997~
+1024~0379~1~0~0~OREGON & SW WASHINGTON PAINTERS JATC~Traffic Painter~Traffic Control Painter~04/07/1992~04/20/1992
+1028~0510~0~0~0~PORTLAND SHEET METAL WORKER JATC~Sheet Metal Worker~Sheet Metal Worker~07/01/1997~07/15/1997
+1028~0510~2~0~0~PORTLAND SHEET METAL WORKER JATC~SM Wkr Serv Sys Tech~Sheet Metal Worker Service Systems Technician~~
+1033~0432~0~0~0~NORTH COAST PLUMBERS JATC~Plumber~Plumber~~
+1035~0308~0~0~0~PCC STRUCTURALS LARGE PARTS CAMPUS JATC~Millwright~Industrial Maintenance Millwright~~
+1038~0432~0~0~0~AREA I PLUMBERS JATC~Plumber~Plumber~03/01/1985~
+1039~0619~0~0~0~PORTLAND WATER BUREAU JATC~Water Serv Mechanic~Water Service Mechanic~~
+1039~0619~1~0~0~PORTLAND WATER BUREAU JATC~Wtr Serv Utility Wkr~Water Service Utility Worker (Water Bureau)~~
+1040~0536~0~0~0~METRO LTD MAINTENANCE ELECTRICIAN JATC~Stationary Engineer~Stationary Engineer~~
+1040~0644~0~0~0~METRO LTD MAINTENANCE ELECTRICIAN JATC~Ltd Main Electrician~Limited Maintenance Electrician~~
+1041~0365~0~0~0~OR SW-WA IUOE LOCAL #701 & AGC JATC~Operating Engineer~Operating Engineer~03/17/1997~03/28/1997
+1041~0365~1~0~0~OR SW-WA IUOE LOCAL #701 & AGC JATC~Technical Engineer~Technical Engineer~~
+1041~0365~5~0~0~OR SW-WA IUOE LOCAL #701 & AGC JATC~Heavy Duty Repairer~Heavy Duty Repairer~~
+1043~0412~0~0~0~OR SW-WA NW-CA MTL TRDS PIPEFITTERS JATC~Pipefitter~Metal Trades Pipefitter~05/06/1991~05/17/1991
+1046~0159~0~0~0~AREA I INSIDE ELECTRICAL JATC~Inside Electrician~Inside Electrician~02/01/1995~03/03/1995
+1047~0173~0~0~0~OREGON SW-WA ELEVATOR INDUSTRY JATC~Elevator Mechanic~Elevator Mechanic~~
+1050~0480~0~0~0~OR/SW-WA ROOFERS & WATERPROOFERS JATC~Roofer~Roofer~~
+1052~0909~0~0~0~OR SW-WA HEAT/FROST INSUL/ WRKRS JATC~Heat/Frost Insulator~Heat and Frost Insulator~~
+1052~0909~1~0~0~OR SW-WA HEAT/FROST INSUL/ WRKRS JATC~Firestop Containment~Firestop Containment Worker~~
+1053~0459~0~0~0~LTD ENERGY TECHNICIANS JATC~Ltd Energy Tech A~Limited Energy Technician A~01/22/1997~12/11/1997
+1053~0459~2~1~0~LTD ENERGY TECHNICIANS JATC~Ltd Energy Tech/PDX~Limited Energy Technician A - City of Portland~~
+1056~0379~0~0~0~AREA I PAINTERS JATC~Painter~Painter and Decorator~09/19/1988~
+1057~0067~0~0~0~OREGON SW WASHINGTON CARPENTERS JATC~Carpenter~Carpenter~~
+1057~0067~9~0~0~OREGON SW WASHINGTON CARPENTERS JATC~YOUTH Carpenter~YOUTH Carpenter~~
+1057~0069~0~0~0~OREGON SW WASHINGTON CARPENTERS JATC~Scaffold Erector~Scaffold Erector~~
+1057~0110~0~0~0~OREGON SW WASHINGTON CARPENTERS JATC~Pile Driver~Pile Driver~~
+1057~0145~0~0~0~OREGON SW WASHINGTON CARPENTERS JATC~Ext/Int Specialist~Exterior-Interior Specialist~~
+1057~0308~0~0~0~OREGON SW WASHINGTON CARPENTERS JATC~Ind Maint Millwright~Industrial Maintenance Millwright~~
+1057~0335~0~0~0~OREGON SW WASHINGTON CARPENTERS JATC~Millwright~Construction Millwright & Machine Erectors~~
+1057~0561~0~0~0~OREGON SW WASHINGTON CARPENTERS JATC~Drywall Finisher ~Drywall Finisher~~
+1058~0628~0~0~0~OREGON LABORERS JATC~Laborer~Construction Laborer~11/01/1995~
+1060~0510~0~0~0~MID-VALLEY SHEET METAL WORKERS JAC~Sheet Metal Worker~Sheet Metal Worker~05/01/1996~08/30/1996
+1061~0124~0~0~0~TRI MET HEAVY DUTY BUS MECHANIC JATC~Hvy Dty Bus Mechanic~Heavy Duty Bus Mechanic~~
+1061~0308~0~0~0~TRI MET HEAVY DUTY BUS MECHANIC JATC~Plant Maint Mechanic~Maintenance Mechanic~~
+1062~0517~0~0~0~AREA I SIGN INSTALLERS JATC~Sign Maker-Erector~Sign Maker-Erector~10/01/1987~
+1064~0296~0~0~0~BLOUNT INC TECHNICAL JATC~General Machinist~General Machinist~~
+1064~0296~1~0~0~BLOUNT INC TECHNICAL JATC~Precision Machinist~Precision Machinist~~
+1064~0306~1~0~0~BLOUNT INC TECHNICAL JATC~Chain Main Machinist~Chain Maintenance Machinist~~
+1064~0643~0~0~0~BLOUNT INC TECHNICAL JATC~Mfg Plnt Electrician~Manufacturing Plant Electrician~~
+1065~0052~0~0~0~OREGON COLUMBIA MASONS TATC~Bricklayer/Masonry~Bricklayer/Masonry Restoration~~
+1065~0075~0~0~0~OREGON COLUMBIA MASONS TATC~Cement Mason~Cement Mason~~
+1071~0414~1~0~0~OR SW-WA NW-CA PLMBR & STMFITTR JATC~Steamfitter/LEB~Steamfitter/LEB~~
+1071~0432~0~0~0~OR SW-WA NW-CA PLMBR & STMFITTR JATC~Plumber~Plumber~~
+1071~0637~0~0~0~OR SW-WA NW-CA PLMBR & STMFITTR JATC~Steamfitter HVAC/R~Steamfitter HVAC/R ~~
+1074~0067~0~0~0~OREGON/COLUMBIA CARPENTERS JATC~Carpenter~Carpenter~10/14/1996~
+1077~0414~0~0~0~OR & SW-WA SPRINKLER FITTERS JATC~Sprinkler Fitter~Sprinkler Fitter/Pipe Fitter~~
+1078~0162~0~0~0~TRI MET RAIL MAINT/VEHI/MECH/TECH JATC~Rail Technician~Rail Vehicle Technician~~
+1078~0162~1~0~0~TRI MET RAIL MAINT/VEHI/MECH/TECH JATC~Tract/Subst Tech~Traction/Substation Technician~~
+1078~0162~2~0~0~TRI MET RAIL MAINT/VEHI/MECH/TECH JATC~Overhead Technician~Overhead Technician~~
+1078~0906~0~0~0~TRI MET RAIL MAINT/VEHI/MECH/TECH JATC~Field Equipment Tech~Field Equipment Tech~~
+1078~0942~0~0~0~TRI MET RAIL MAINT/VEHI/MECH/TECH JATC~Signal Technician~Signal Technician~~
+1080~0637~0~0~0~AREA I HVAC JATC~Env Con Serv Install~Environmental Control System Servicer/Installer~06/01/1995~09/01/1995
+1081~0292~0~0~0~BOEING PORTLAND JATC~Machine Repair Mech~Machine Repair Mechanic~~
+1081~0296~0~0~0~BOEING PORTLAND JATC~Machinist~Machinist~~
+1081~0643~0~0~0~BOEING PORTLAND JATC~Electronic Main Tech~Manufacturing Plant Electrician~~
+1082~0151~1~0~0~TILLAMOOK COUNTY OUTSIDE ELECTRICAL JATC~Meterman~Electrical Meter Repairer~~
+1082~0284~0~0~0~TILLAMOOK COUNTY OUTSIDE ELECTRICAL JATC~Lineman~Power Line Construction/Maintenance~~
+1095~0296~0~0~0~LEUPOLD & STEVENS OF BEAVERTON JATC~Machinist~Basic General Machinist~~
+1095~0643~0~1~0~LEUPOLD & STEVENS OF BEAVERTON JATC~Mfg Plnt Electrician~Manufacturing Plant Electrician~~
+1095~0644~0~0~0~LEUPOLD & STEVENS OF BEAVERTON JATC~Ltd Main Electrician~Limited Maintenance Electrician~~
+1099~0459~0~0~0~LTD ENERGY ELECTRICIAN JATC~Ltd Energy Tech A~Limited Energy Technician A~01/17/1994~
+1099~0459~1~0~0~LTD ENERGY ELECTRICIAN JATC~Ltd Energy Tech B~Limited Energy Technician B~01/17/1994~
+1100~0459~0~0~0~PROTECTIVE SIGNALING JATC~Ltd Energy Tech A~Limited Energy Technician A~11/01/1993~
+1104~0643~0~0~0~GEORGIA PACIFIC ELECTRICAL TRADES JATC~Mfg Plnt Electrician~Manufacturing Plant Electrician~~
+1104~0643~1~0~0~GEORGIA PACIFIC ELECTRICAL TRADES JATC~Mfg Plt Elec/Inst Rp~Manufacturing Plant Electrician/Instrument Repairer~~
+1104~0775~0~0~0~GEORGIA PACIFIC ELECTRICAL TRADES JATC~Instrument Mechanic~Industrial Instrumentation Technician~~
+1104~0775~0~0~1~GEORGIA PACIFIC ELECTRICAL TRADES JATC~Instrument Mechanic~Industrial Instrumentation Technician~~
+1117~0308~0~0~0~CASCADE TISSUE JATC~Ind Maint Millwright~Industrial Maintenance Millwright~~
+1117~0643~0~0~0~CASCADE TISSUE JATC~Mfg Plnt Electrician~Manufacturing Plant Electrician~~
+1119~0308~0~0~0~PRECISION CASTPARTS CORP JATC~Millwright~Industrial Maintenance Millwright~~
+1124~0459~1~0~0~STATE DAS FACILITIES & SEIU 503 JATC~Ltd Energy Tech B~Limited Energy Technician B~~
+1126~0991~0~0~0~RENEWABLE ENERGY JATC~Solar H/C Installer~Solar Heating And Cooling System Installer~~
+1126~0994~0~0~0~RENEWABLE ENERGY JATC~Renewable Enrgy Tech~Renewable Energy Technician~~
+1126~0998~0~0~0~RENEWABLE ENERGY JATC~Com Renew Enrgy Tech~Combined Renewable Energy Technician~~
+1129~0643~0~0~0~SAPA JATC~Mfg Plnt Electrician~Manufacturing Plant Electrician~~
+1129~0644~0~0~0~SAPA JATC~Ltd Main Elect~Limited Maintenance Electrician~~
+1130~0586~0~0~0~USW & O-I PORTLAND JATC~Mold Maker~Tool & Die Maker~~
+1131~0296~0~0~0~PACIFIC NORTHWEST MACHINIST JATC~Machinist~Machinist~~
+1132~0586~0~0~0~LEATHERMAN TOOL GROUP JATC~Tool & Die Maker~Tool & Die Maker~~
+1133~0284~0~0~0~CLATSKANIE PUD JATC~Lineman~Power Line Construction/Maintenance Workers~~
+1135~0308~0~0~0~NORTH COAST INDUSTRIAL TRADES JATC~Ind Maint Millwright~Industrial Maintenance Millwright~~
+1138~0308~0~0~0~PCC STRUCTURALS DEER CREEK TATC~Millwright~Industrial Machinery Mechanic~~
+1138~0643~0~0~0~PCC STRUCTURALS DEER CREEK TATC~Mfg Plnt Electrician~Manufacturing Plant Electrician~~
+1138~0644~0~0~0~PCC STRUCTURALS DEER CREEK TATC~Ltd Main Electrician~Limited Maintenance Electrician~~
+1139~0644~0~0~0~GP NWSC JATC~Ltd Main Elect~Limited Maintenance Electrician~~
+1144~0171~0~0~0~OREGON LBME JTC~Ltd Bldg Maint Elec~Limited Building Maintenance Electrician~~
+1144~0171~1~0~0~OREGON LBME JTC~Ltd Bldg Maint Elec~Limited Building Maintenance Electrician~~
+1146~0308~0~0~0~PACIFIC NORTHWEST IMM JATC~Ind Millwright~Industrial Maintenance Millwright~~
+1146~0308~1~0~0~PACIFIC NORTHWEST IMM JATC~Ind Maint Mechanic~Industrial Maintenance Mechanic~~
+1148~0644~0~0~0~SUNEDISON JATC~Ltd Main Electrician~Limited Maintenance Electrician~~
+1155~0643~0~0~0~TOYO TANSO USA ELECTRICAL JATC~Mfg Plnt Electrician~Manufacturing Plant Electrician~~
+1155~0644~0~0~0~TOYO TANSO USA ELECTRICAL JATC~Ltd Main Electrician~Ltd Maintenance Electrician~~
+1173~0644~0~0~0~WESTERN STAR - IAM 1005 JATC~Ltd Main Electrician~Limited Maintenance Electrician~~
+1175~0365~0~0~0~OR/COLUMBIA HEAVY EQUIP OPERATOR JATC~Operating Engineer~Operating Engineer~~
+1176~0171~0~0~0~METRO LTD BLDG MAINT ELECTRICIAN  JATC~Ltd Bldg Maint Elec~Limited Building Maintenance Electrician~~
+1177~0990~0~0~0~OREGON TEST, ADJUST & BALANCE JATC~T A B Technician~Testing, Adjusting & Balancing Technician~~
+1195~0620~0~0~0~CASCADE JTC~Structural Welder~Structural Welder~~
+1195~0943~0~0~0~CASCADE JTC~Custodian~Janitors and Cleaners~~
+1229~0536~0~0~0~OR SW-WA IUOE #701 STNRY ENGINEER JATC~Stationary Engineer~Stationary Engineer~~
+1229~0644~0~0~0~OR SW-WA IUOE #701 STNRY ENGINEER JATC~Ltd Main Electrician~Limited Maintenance Electrician~~
+1244~0159~0~0~0~NORTH COAST ELECTRICAL JATC~Inside Electrician~Inside Electrician~~
+1244~0308~0~0~0~NORTH COAST ELECTRICAL JATC~Ind Maint Millwright~Industrial Maintenance Millwright~~
+1244~0643~0~0~0~NORTH COAST ELECTRICAL JATC~Ind Plnt Electrician~Manufacturing Plant Electrician~~
+1244~0644~0~0~0~NORTH COAST ELECTRICAL JATC~Ltd Main Electrician~Limited Maintenance Electrician~~
+1277~0510~0~0~0~SHEET METAL JATC~Sheet Metal Worker~Sheet Metal Worker~~
+1279~0980~0~0~0~INTERSTATE TRUCKING JATC~Heavy Truck Driver~Heavy Truck Driver~~
+1280~0573~0~0~1~OR COLUMBIA TILE TRADES JATC~Tile Trades Finisher~Tile, Terrazzo, Brick & Marble Finisher~~
+1280~0573~1~0~0~OR COLUMBIA TILE TRADES JATC~Tile Trades Setter~Tile Trades Setter~~
+1902~0308~9~0~0~PORTLAND METRO YOUTH JATC~Youth Millwright~Youth Maintenance Millwright~~
+1902~0644~9~0~0~PORTLAND METRO YOUTH JATC~Youth LME~Youth Limited Maintenance Electrician~~
+1902~0669~9~0~0~PORTLAND METRO YOUTH JATC~Youth Ironworker~Youth Ironworker~~
+2002~0151~0~0~0~CENTRAL LINCOLN PUD LOCAL JATC~Meter Repairer~Electrical Meter Repairer ~~
+2002~0166~0~0~0~CENTRAL LINCOLN PUD LOCAL JATC~Electric Substation~Station-Substation Construction and Maintenance Wireman~~
+2002~0284~0~0~0~CENTRAL LINCOLN PUD LOCAL JATC~Lineman~Power Line Construction/Maintenance~~
+2008~0308~0~0~0~MID-WILLAMETTE IND'L ELECTRICAL JATC~Ind Maint Millwright~Industrial Maintenance Millwright~~
+2008~0308~0~1~0~MID-WILLAMETTE IND'L ELECTRICAL JATC~Ind Maint Millwright~Industrial Maintenance Millwright~~
+2008~0643~0~0~0~MID-WILLAMETTE IND'L ELECTRICAL JATC~Mfg Plnt Electrician~Manufacturing Plant Electrician~~
+2008~0644~0~0~0~MID-WILLAMETTE IND'L ELECTRICAL JATC~Ltd Main Electrician~Limited Maintenance Electrician~~
+2008~0644~1~0~0~MID-WILLAMETTE IND'L ELECTRICAL JATC~Ltd Main Electrician~Limited Maintenance Electrician (non-profit)~~
+2009~0153~0~0~0~MID-WILLAMETTE INDUSTRIAL TATC~Ind Mobil Equip Mech~Industrial Mobile Equipment Mechanic~~
+2009~0296~0~1~0~MID-WILLAMETTE INDUSTRIAL TATC~Machinist~Machinist~~
+2009~0308~0~0~0~MID-WILLAMETTE INDUSTRIAL TATC~Ind Maint Millwright~Industrial Maintenance Millwright~~
+2009~0414~0~0~0~MID-WILLAMETTE INDUSTRIAL TATC~Industrial Pipefittr~Industrial Pipefitter~~
+2009~0459~0~0~0~MID-WILLAMETTE INDUSTRIAL TATC~Ltd Energy Tech A~Limited Energy Technician A~~
+2009~0459~1~0~0~MID-WILLAMETTE INDUSTRIAL TATC~Ltd Energy Tech B~Limited Energy Technician B~~
+2009~0643~0~0~0~MID-WILLAMETTE INDUSTRIAL TATC~Mfg Plnt Electrician~Manufacturing Plant Electrician~~
+2009~0644~1~0~0~MID-WILLAMETTE INDUSTRIAL TATC~Ltd Main Electrician~Limited Maintenance Electrician~~
+2009~0645~0~0~0~MID-WILLAMETTE INDUSTRIAL TATC~Indl Instr Repairer~Industrial Instrument Repairer~~
+2015~0432~0~0~0~AREA II PLUMBERS JATC~Plumber~Plumber~~
+2016~0159~0~0~0~AREA II INSIDE ELECTRICAL JATC~Inside Electrician~Inside Electrician~~
+2017~0284~0~0~0~CONSUMERS POWER JATC~Lineman~Power Line Construction/Maintenance~~
+2020~0459~0~0~0~AREA II LTD ENERGY ELECTRICAL JATC~Ltd Energy Tech A~Limited Energy Technician A~~
+2020~0459~1~0~0~AREA II LTD ENERGY ELECTRICAL JATC~Ltd Energy Tech B~Limited Energy Technician B~~
+2022~0414~0~0~0~MID-VALLEY STEAMFITTERS/PIPEFITTERS JATC~Pipefitter~Pipefitter~~
+2023~0628~0~0~0~OREGON COLUMBIA LABORERS JATC~Laborer~Laborer~01/06/1993~
+2026~0637~0~0~0~MID-VALLEY HVAC JAC~HVAC/R Technician~HVAC/R Technician~~
+2035~0365~0~0~0~KNIFE RIVER OREGON JAC~Lt Grade/Paving Op~Light Grading & Paving Operator~~
+2038~0308~0~0~0~GEORGIA PACIFIC TAC~Ind Maint Millwright~Industrial Maintenance Millwright~~
+2038~0643~0~0~0~GEORGIA PACIFIC TAC~Mfg Plant/Inst Repr~Manufacturing Plant Electrician/Instrument Repairer~~
+3001~0159~0~0~0~CENTRAL ELECTRICAL JATC~Inside Electrician~Inside Electrician~~
+3001~0159~1~0~0~CENTRAL ELECTRICAL JATC~Ltd Res Electrician~Limited Residential Electrician~~
+3001~0459~0~0~0~CENTRAL ELECTRICAL JATC~Ltd Energy Tech A~Limited Energy Technician Class A~~
+3002~0517~0~0~0~CENTRAL SIGN HANGER JATC~Sign Maker/Erector~Sign Hanger/Erector~~
+3004~0643~1~0~0~LANE COUNTY INDUSTRIAL ELECTRICAL JATC~Mfg Plnt Electrician~Manufacturing Plant Electrician~~
+3004~0644~0~0~0~LANE COUNTY INDUSTRIAL ELECTRICAL JATC~Ltd Main Electrician~Limited Maintenance Electrician~~
+3007~0151~0~0~0~EUGENE/SPRINGFIELD UTILITIES JATC~Elect Meter Repairer~Electrical Meter Repairer~~
+3007~0166~0~0~0~EUGENE/SPRINGFIELD UTILITIES JATC~Electric Substation~Electrician Substation~~
+3007~0284~0~0~0~EUGENE/SPRINGFIELD UTILITIES JATC~Lineman~Power Line Construction/Maintenance~~
+3009~0151~0~0~0~EWEB OUTSIDE ELECTRICAL WORKERS JATC~Meterman~Electrical Meter Repairer~~
+3009~0166~0~0~0~EWEB OUTSIDE ELECTRICAL WORKERS JATC~Station/Sub Wireman~Station-Substation Construction and Maintenance Wireman~~
+3009~0284~0~0~0~EWEB OUTSIDE ELECTRICAL WORKERS JATC~Lineman~Power Line Construction/Maintenance~~
+3010~0586~0~0~0~NORTHWEST STAMPING & PRECISION JATC~Tool & Die Maker~Tool & Die Maker~~
+3012~0153~0~0~0~LANE COUNTY INDL MAINT MECHANIC JATC~Indl Equip Mechanic~Industrial Mobile Equipment Mechanic~~
+3012~0296~0~0~0~LANE COUNTY INDL MAINT MECHANIC JATC~Machinist~Machinist~~
+3012~0308~0~0~0~LANE COUNTY INDL MAINT MECHANIC JATC~Ind Maint Millwright~Industrial Maintenance Millwright~~
+3015~0432~0~0~0~AREA III PLUMBERS JATC~Plumber~Plumber~~
+3019~0159~0~0~0~AREA III INSIDE ELECTRICAL JATC~Inside Electrician~Inside Electrician~~
+3019~0459~0~0~0~AREA III INSIDE ELECTRICAL JATC~Ltd Energy Tech A~Limited Energy Technician A~~
+3022~0254~1~0~0~SOUTHRN WILL-VALLEY LTD ENGY ELEC JATC~Indl Instrument Tech~Industrial Instrumentation Technician~~
+3022~0459~0~0~0~SOUTHRN WILL-VALLEY LTD ENGY ELEC JATC~Ltd Energy Tech A~Limited Energy Technician A~~
+3022~0459~1~0~0~SOUTHRN WILL-VALLEY LTD ENGY ELEC JATC~Ltd Energy Tech B~Limited Energy Technician B~~
+3022~0459~1~0~2~SOUTHRN WILL-VALLEY LTD ENGY ELEC JATC~LEB - Tribal~Limited Energy Technician B~~
+3025~0510~0~0~0~AREA III SHEET MTL/HVAC ENV SYS JATC~Sheet Metal Worker~Sheet Metal Worker~~
+3025~0637~0~0~0~AREA III SHEET MTL/HVAC ENV SYS JATC~Env Ctl Sys Ser/Inst~Environmental Control System Servicer/Installer~~
+3027~0999~0~0~0~CITY OF SPRINGFIELD MAINTENANCE JATC~Maintenance Tech~Maintenance Technician~~
+3038~0067~0~0~0~LANE/DOUGLAS COUNTIES CARPENTERS JATC~Carpenter~Carpenter~~
+3042~0643~0~0~0~NATIONAL FROZEN FOODS JATC~Mfg Plnt Electrician~Manufacturing Plant Electrician~~
+3042~0644~0~0~0~NATIONAL FROZEN FOODS JATC~Ltd Main Electrician~Limited Maintenance Electrician~~
+4005~0284~0~0~0~COOS-CURRY ELECTRIC COOPERATIVE INC JAC~Outside Electrician~Power Line Construction/Maintenance~~
+4007~0306~0~0~0~DOUGLAS/COOS/CURRY INDUSTRIAL TATC~Indl Maint Machinist~Industrial Maintenance Machinist~~
+4007~0308~0~0~0~DOUGLAS/COOS/CURRY INDUSTRIAL TATC~Ind Maint Millwright~Industrial Maintenance Millwright~~
+4007~0833~0~0~0~DOUGLAS/COOS/CURRY INDUSTRIAL TATC~Ind Fabricator~Industrial Fabricator/Welder~~
+4009~0159~0~0~0~PACIFIC INSIDE ELECTRICAL JATC~Inside Electrician~Inside Electrician~~
+4009~0159~1~0~0~PACIFIC INSIDE ELECTRICAL JATC~Ltd Res Electrician~Limited Residential Electrician~~
+4009~0459~0~0~0~PACIFIC INSIDE ELECTRICAL JATC~Local Telcom Install~Local Telecommunications Installer-Technician~~
+4011~0643~0~0~0~ROSEBURG INDUSTRIAL ELECTRICAL JATC~Mfg Plnt Electrician~Manufacturing Plant Electrician~~
+4011~0644~0~0~0~ROSEBURG INDUSTRIAL ELECTRICAL JATC~Ltd Main Electrician~Limited Maintenance Electrician~~
+4015~0159~0~0~0~AREA IV INDEPENDENT TAC~Inside Electrician~Inside Electrician~~
+4015~0432~0~0~0~AREA IV INDEPENDENT TAC~Plumber~Plumber~~
+4016~0159~0~0~0~AREA IV INSIDE ELECTRICAL JATC~Inside Electrician~Inside Electrician~~
+4016~0159~1~0~0~AREA IV INSIDE ELECTRICAL JATC~Inside Electrician~Inside Electrician (Cow Creek)~~
+4021~0149~0~0~0~ROSEBURG TATC~Elect Mtr Wndr & Rep~Electric Motor Repairer~~
+4021~0284~0~0~0~ROSEBURG TATC~Outside Electrician~Power Line Construction/Maintenance~~
+5001~0159~0~0~0~CRATER LAKE ELECTRICAL JATC~Inside Electrician~Inside Electrician~~
+5001~0159~1~1~0~CRATER LAKE ELECTRICAL JATC~Ltd Res Electrician~Limited Residential Electrician~~
+5001~0459~0~0~0~CRATER LAKE ELECTRICAL JATC~Ltd Energy Tech A~Limited Energy Technician A~~
+5002~0308~0~0~0~JACKSON COUNTY MILLWRIGHTS JATC~Ind Maint Millwright~Industrial Maintenance Millwright~~
+5004~0517~0~0~0~ROGUE VALLEY TRADES TATC~Sign Electrician~Sign Electrician~~
+5004~0668~0~0~0~ROGUE VALLEY TRADES TATC~Die Maker/Cast/Mold~Die Maker Die Casting & Plastic Molding~~
+5005~0643~0~0~0~ROGUE INDUSTRIAL ELECTRICAL JATC~Mfg Plnt Electrician~Manufacturing Plant Electrician~~
+5005~0644~0~0~0~ROGUE INDUSTRIAL ELECTRICAL JATC~Ltd Main Electrician~Limited Maintenance Electrician~~
+5006~0510~0~0~0~S CENTRAL OR SHEET METAL JATC~Sheet Metal Worker~Sheet Metal Worker~~
+5007~0151~0~0~0~SOUTHERN OR ELECTRICAL UTILITIES JATC~Meter Repairer~Meter Repairer~~
+5007~0284~0~0~0~SOUTHERN OR ELECTRICAL UTILITIES JATC~Power Line Cons/Main~Power Line Construction/Maintenance~~
+5007~0905~0~0~0~SOUTHERN OR ELECTRICAL UTILITIES JATC~Hydro Operator Maint~Hydro Journeyman Operator Maintenance~~
+5007~0965~1~0~0~SOUTHERN OR ELECTRICAL UTILITIES JATC~Estimator~Estimator~~
+5009~0159~0~0~0~AREA V INSIDE ELECTRICAL JATC~Inside Electrician~Inside Electrician~~
+5010~0815~0~0~0~SOUTHERN OREGON BOILER OPERATORS JATC~Boiler Operator~Boiler Operator~~
+5012~0432~0~0~0~AREA V (ROGUE VALLEY) PLUMBERS JATC~Plumber~Plumber~~
+5022~0637~0~0~0~ROGUE VALLEY HVAC/R JATC~Env Ctl Sys Serv/Ins~Environmental Control System Servicer/Installer~~
+5022~0637~1~0~0~ROGUE VALLEY HVAC/R JATC~Env Ctl Sys Serv/Ins~Environmental Control System Servicer/Installer (Cow Creek)~~
+5023~0917~0~0~0~AVISTA UTILITIES JATC~Gas Serviceman~Gas Appliance Servicer~~
+5025~0432~0~0~0~KLAMATH BASIN PLUMBERS JATC~Plumber~Plumber~~
+5035~0005~0~0~0~SOUTHERN OREGON AVIATION JATC~Air Frame/Power Mech~Air Frame & Power Plant  Mechanic~~
+6002~0169~0~0~0~LAMB WESTON TATC~Program Contrl Tech~Programmable Controller Technician~~
+6002~0308~0~0~0~LAMB WESTON TATC~Ind Maint Millwright~Industrial Maintenance Mechanic~~
+6002~0643~0~0~0~LAMB WESTON TATC~Mfg Plnt Electrician~Manufacturing Plant Electrician~~
+6002~0644~0~0~0~LAMB WESTON TATC~Ltd Main Electrician~Limited Maintenance Electrician~~
+6003~0643~0~0~0~ASH GROVE JAC~Mfg Plnt Electrician~Manufacturing Plant Electrician~~
+6008~0159~0~0~0~ONTARIO TATC~Inside Electrician~Inside Electrician~02/02/1998~02/13/1998
+6008~0432~0~0~0~ONTARIO TATC~Plumber~Plumber~~
+6011~0414~0~0~0~BLUE MOUNTAIN TATC~Sprinkler Fitter~Sprinkler Fitter/Pipe Fitter~~
+6011~0432~0~0~0~BLUE MOUNTAIN TATC~Plumber~Plumber~~
+6012~0151~0~0~0~UTILITY ELECTRICAL WORKERS JATC~Meterman~Electric Meter Repairer~~
+6012~0284~0~0~0~UTILITY ELECTRICAL WORKERS JATC~Lineman~Power Line Construction/Maintenance~~
+6013~0159~0~0~0~AREA VI INSIDE ELECTRICAL JATC~Inside Electrician~Inside Electrician~02/02/1998~02/13/1998
+6016~0169~0~0~0~EASTERN OREGON INDUSTRIAL TATC~Program Contrl Tech~Programmer Controller Technician~~
+6016~0308~1~0~0~EASTERN OREGON INDUSTRIAL TATC~Ind Maint Mechanic~Ind Maint Mechanic~~
+6016~0459~0~0~0~EASTERN OREGON INDUSTRIAL TATC~Ltd Energy Tech A~Limited Energy Technician A~~
+6016~0459~1~0~0~EASTERN OREGON INDUSTRIAL TATC~Ltd Energy Tech B~Limited Energy Technician B~~
+6016~0643~0~0~0~EASTERN OREGON INDUSTRIAL TATC~Mfg Plnt Electrician~Manufacturing Plant Electrician~~
+6016~0644~0~0~0~EASTERN OREGON INDUSTRIAL TATC~Ltd Main Electrician~Limited Maintenance Electrician~~
+6019~0284~0~0~0~MID-COLUMBIA OUTSIDE ELECTRICAL JATC~Outside Electrician~Power Line Construction/Maintenance~~
+6020~0169~0~0~1~BOISE CASCADE/WCIW NE-OR TATC~Program Contrlr Tech~Programmable Controller Technician~~
+6020~0308~0~0~0~BOISE CASCADE/WCIW NE-OR TATC~Ind Maint Mechanic~Industrial Maintenance Mechanic~~
+6020~0643~0~0~0~BOISE CASCADE/WCIW NE-OR TATC~Mfg Plnt Electrician~Manufacturing Plant Electrician~~
+6020~0644~0~0~0~BOISE CASCADE/WCIW NE-OR TATC~Ltd Main Elect~Limited Maintenance Electrician~~
+6021~0414~0~0~0~NE OR PLUMBERS & STEAMFITTERS TATC (WA)~Steamfitter~Steamfitter~05/06/1996~05/24/1996
+6021~0432~0~0~0~NE OR PLUMBERS & STEAMFITTERS TATC (WA)~Plumber~Plumber~05/06/1996~05/24/1996
+6022~0510~0~0~0~NE OREGON SHEET METAL WORKERS JATC (WA)~Sheet Metal Worker~Sheetmetal Worker~~
+6024~0159~0~0~0~SW IDAHO - MALHEUR COUNTY JATC~Inside Electrician~Inside Electrician~~
+6026~0169~0~0~0~HERMISTON FOODS LLC TATC~Program Contrl Tech~Programmable Controller Technician~~
+6026~0459~0~0~0~HERMISTON FOODS LLC TATC~Ltd Energy Tech A~Limited Energy Technician A~~
+6026~0643~0~0~0~HERMISTON FOODS LLC TATC~Mfg Plnt Electrician~Manufacturing Plant Electrician~~
+6026~0644~0~0~0~HERMISTON FOODS LLC TATC~Ltd Main Electrician~Limited Maintenance Electrician~~
+6028~0284~0~0~0~COLUMBIA POWER ELECTRICAL UTILITIES JATC~Power Line Cons/Main~Power Line Construction/Maintenance~~
+6040~0055~0~0~0~COLUMBIA GORGE JATC~Cabinet Maker~Cabinetmaker~~
+6040~0379~0~0~0~COLUMBIA GORGE JATC~Painter~Painting and Decorating~~
+6040~0459~1~0~0~COLUMBIA GORGE JATC~Ltd Energy Tech B~Limited Energy Technician B~~
+6040~0510~0~0~0~COLUMBIA GORGE JATC~Sheet Metal Worker~Sheet Metal Worker~~
+6040~0637~0~0~0~COLUMBIA GORGE JATC~HVAC/R~HVAC/R Service & Systems Installer / Technician~~
+6040~0643~0~0~0~COLUMBIA GORGE JATC~Mfg Plnt Electrician~Manufacturing Plant Electrician~~
+6040~0644~0~0~0~COLUMBIA GORGE JATC~Ltd Main Electrician~Limited Maintenance Electrician~~
+7001~0159~0~0~0~AREA VII INSIDE ELECTRICAL JATC~Inside Electrician~Inside Electrician~01/22/1998~02/04/1998
+7003~0151~0~0~0~CENTRAL OR OUTSIDE ELECTRICAL JATC~Meter Person~Electrical Meter Repairer~~
+7003~0284~0~0~0~CENTRAL OR OUTSIDE ELECTRICAL JATC~Line Repairer~Power Line Construction/Maintenance~~
+7003~0965~0~8~0~CENTRAL OR OUTSIDE ELECTRICAL JATC~Estimator~Estimator~~
+7004~0308~0~0~0~CENTRAL OREGON TATC~Ind Maint Millwright~Industrial Maintenance Millwright~~
+7004~0440~0~0~0~CENTRAL OREGON TATC~Boiler Operator~Boiler Operator~~
+7004~0601~0~0~0~CENTRAL OREGON TATC~Turbine Operator~Turbine Operator~~
+7004~0643~0~0~0~CENTRAL OREGON TATC~Mfg Plnt Electrician~Manufacturing Plant Electrician~~
+7004~0644~0~0~0~CENTRAL OREGON TATC~Ltd Main Electrician~Limited Maintenance Electrician~~
+7004~0644~1~0~0~CENTRAL OREGON TATC~Ltd Main Electrician~Limited Maintenance Electrician (non-profit)~~
+7005~0432~0~0~0~AREA VII PLUMBERS JATC~Plumber~Plumber~~
+7013~0510~0~0~0~CENTRAL OREGON SHEET METAL JATC~Sheet Metal Worker~Sheet Metal Worker~12/09/1999~12/22/1999
+7015~0284~0~0~0~HARNEY ELECTRIC COOPERATIVE JATC~Line Repairer~Power Line Construction/Maintenance~~
+7016~0308~0~0~0~KLAMATH BASIN INDUSTRIAL TATC~Ind Maint Millwright~Industrial Maintenance Millwright~~
+7016~0414~0~0~0~KLAMATH BASIN INDUSTRIAL TATC~Industrial Pipefittr~Industrial Pipefitter~~
+7016~0643~0~0~0~KLAMATH BASIN INDUSTRIAL TATC~Mfg Plnt Electrician~Manufacturing Plant Electrician~~
+7016~0644~0~0~0~KLAMATH BASIN INDUSTRIAL TATC~Ltd Main Electrician~Limited Maintenance Electrician~~
+7019~0365~0~0~0~DESCHUTES CO CERTFD EQUIP OPERATOR JATC~Roads Equip Operator~Roads Equipment Operator~~
+7019~0365~1~0~0~DESCHUTES CO CERTFD EQUIP OPERATOR JATC~Waste Equip Operator~Waste Equipment Operator~~
+7024~0159~0~0~0~KLAMATH BASIN INSIDE ELECTRICIAN JATC~Inside Electrician~Inside Electrician~~
+7025~0643~0~0~0~BRIGHT WOOD CORP IND ELECTRICAL JATC~Mfg Plnt Electrician~Manufacturing Plant Electrician~~
+7026~0459~0~0~0~CENTRAL OR LTD ENERGY ELECTRICAL JATC~Ltd Energy Tech A~Limited Energy Technician A~~
+7026~0459~1~0~0~CENTRAL OR LTD ENERGY ELECTRICAL JATC~Ltd Energy Tech B~Limited Energy Technician B~~
