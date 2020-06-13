@@ -20,7 +20,7 @@ require_once 'lib/ajax.inc.php';
 
 function hecc_standards_enqueue_scripts() {
 	
-	wp_enqueue_script('googleMaps', 'https://maps.google.com/maps/api/js?key=AIzaSyBu4aIg_cR0nkItQy1xAhngjCvfl3g2Gh0', array('jquery'), null, true);
+	wp_enqueue_script('googleMaps', 'https://maps.google.com/maps/api/js?key=xxx', array('jquery'), null, true);
 	wp_enqueue_script('gmaps', 'https://rawgit.com/HPNeo/gmaps/master/gmaps.js', array('jquery'), null, true);
     wp_enqueue_script( 'tablefilter', '/wp-content/plugins/hecc_standards_plugin/inc/tablefilter/tablefilter.js', array(), '' , true );
     wp_enqueue_script( 'standardsScript', '/wp-content/plugins/hecc_standards_plugin/js/standardsScript.js', array('tablefilter','jquery', 'googleMaps', 'gmaps'), '' , true );
