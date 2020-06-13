@@ -4,7 +4,7 @@ class Geocode {
 
 		define("MAPS_HOST", "https://maps.googleapis.com/maps/");
 		//Personal Google Maps API key
-		define("KEY", "AIzaSyDIpTwf5o-RcG5dLHCWbaapFBhGizF4Y74");
+		define("KEY", "xxx");
 
 		if(null !== $address){
 			$this->address = urlencode($address);
